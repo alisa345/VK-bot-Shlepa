@@ -1,1 +1,1 @@
-# VK-bot-Shlepa
+# VKBot / Шлёпа бот
